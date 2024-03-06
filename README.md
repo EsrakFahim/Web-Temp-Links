@@ -1,1 +1,13 @@
-# Web-Temp-Links
+# Web Temp Links
+
+## E-commerce Temp:
+- Electronics Store Link: https://b4fklkfglpiwmvj9-72849948973.shopifypreview.com
+- Cosmetics Store Link: https://ng99ey1qk3inyalr-72849948973.shopifypreview.com
+- Medical Store Link: https://qfmf3f2mvgaj01bk-72849948973.shopifypreview.com
+- Furniture Store Link: https://depot.qodeinteractive.com/classic-home/
+- Fashion Brand Site Link: https://klbtheme.com/clotya/
+- Fashion Brand Site2 Link: https://suprema.qodeinteractive.com/suprema-shop/
+
+## Blog Web Temp
+- Minimalo: https://theme.rootlayers.com/minimalo/minimalo-2/
+- Minimali2: https://theme.rootlayers.com/minimalo/minimalo-3/

@@ -17,3 +17,7 @@
 - Link1 : https://preview.themeforest.net/item/medical-clinic-health-doctor-medical-wordpress-theme/full_screen_preview/18277620
 - Link2 : https://demo.goodlayers.com/mediz/clinic/
 - Link3 : https://demo.goodlayers.com/mediz/hospital/
+
+
+## Inventory Manegment System:
+- Link: https://materialpro-vue3-dark.vercel.app/dashboards/analytical

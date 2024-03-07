@@ -8,11 +8,11 @@
 - Fashion Brand Site Link: https://klbtheme.com/clotya/
 - Fashion Brand Site2 Link: https://suprema.qodeinteractive.com/suprema-shop/
 
-## Blog Web Temp
+## Blog Web Temp:
 - Minimalo: https://theme.rootlayers.com/minimalo/minimalo-2/
 - Minimali2: https://theme.rootlayers.com/minimalo/minimalo-3/
 
-## Hospital Website
--Link1 : https://preview.themeforest.net/item/medical-clinic-health-doctor-medical-wordpress-theme/full_screen_preview/18277620
--Link2 : https://demo.goodlayers.com/mediz/clinic/
--Link3 : https://demo.goodlayers.com/mediz/hospital/
+## Hospital Website:
+- Link1 : https://preview.themeforest.net/item/medical-clinic-health-doctor-medical-wordpress-theme/full_screen_preview/18277620
+- Link2 : https://demo.goodlayers.com/mediz/clinic/
+- Link3 : https://demo.goodlayers.com/mediz/hospital/

@@ -1,6 +1,7 @@
 # Web Temp Links
 
 ## E-commerce Temp:
+- Bundle-Temp : https://webdesign.tutsplus.com/best-ecommerce-website-templates--cms-26768a
 - Electronics Store Link: https://b4fklkfglpiwmvj9-72849948973.shopifypreview.com
 - Cosmetics Store Link: https://ng99ey1qk3inyalr-72849948973.shopifypreview.com
 - Medical Store Link: https://qfmf3f2mvgaj01bk-72849948973.shopifypreview.com

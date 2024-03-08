@@ -21,3 +21,95 @@
 
 ## Inventory Manegment System:
 - Link: https://materialpro-vue3-dark.vercel.app/dashboards/analytical
+
+
+## Bakery Website
+- Link(White & Blue Theme): https://template.hasthemes.com/bucker/tf.html?storefront=envato-elements
+- Fancy Theme : https://html.cwsthemes.com/bellaria/index.html?storefront=envato-elements
+- Fancy2 : https://preview.themeforest.net/item/bakery-premium-wordpress-theme/full_screen_preview/20253709
+
+## Restauratn Website
+- link(With food order & Table Booking): https://validthemes.net/site-template/recafe/index.html
+- linl2 : https://foholic.up2client.com/
+- Swiggwy clone Link: https://preview.themeforest.net/item/swiggiweb-online-food-ordering-website-template/full_screen_preview/29797446
+
+
+## Food Recipes Website
+
+
+## Agro / Eco Farming Website
+- link(Eco Farm): https://ninetheme.com/themes/html-templates/agrikon/?storefront=envato-elements
+
+
+## Repair Store Appointment Website
+- Mobile Repair : https://preview.themeforest.net/item/compucare-computer-mobile-repair-shop-wordpress-theme/full_screen_preview/18907783
+- Mobile repair Link 2 : https://preview.themeforest.net/item/tekhfixers-mobile-device-repair-wordpress-theme/full_screen_preview/23115924
+- Link3 : https://preview.themeforest.net/item/fixteam-electronics-repair-wordpress-theme/full_screen_preview/21313304
+- Link4 (3 Demo ) : https://preview.themeforest.net/item/techlife-mobile-tech-electronics-repair-shop-wordpress-theme/full_screen_preview/17056932
+
+
+## Garage Appointment Website
+- link1 : https://enovathemes.com/mobimax/
+- link2 (Demo Site ) : https://preview.themeforest.net/item/equipo-parts-and-tools-wordpress-woocommerce-theme/full_screen_preview/31902507
+- link3 (appoint bar) : https://wpbingosite.com/wordpress/bumbleb/home-2/
+- link4 (Simple garage site) : https://themes.vamtam.com/?theme=macchina&n=3
+- link5 (Car wash appoint site) : https://preview.themeforest.net/item/car-wash-car-maintenance-and-service-wordpress-theme/full_screen_preview/20128262
+- link6 (simple car tire service website) : https://themes.webdevia.com/tires-wheels/
+- link 7 : https://autodaily-vinovatheme.myshopify.com/
+
+
+
+## School Website 
+- link (Kids School ) : https://preview.themeforest.net/item/kids-life-children-wordpress-theme/full_screen_preview/10068328
+- link (Pre School ) : https://wdtninos.wpengine.com/
+- link (kinder garden) : https://wdtninos.wpengine.com/home-2-main/
+
+
+## Cource Selling Website
+- demo : https://preview.themeforest.net/item/coursector-lms-education-wordpress/full_screen_preview/24553720
+- link : https://themes.themegoods.com/coursector/home-7/
+-  link (for kids) : https://wdtninos.wpengine.com/kidscool-lms/
+
+## Toy Store
+- link (kids store) : https://preview.themeforest.net/item/uneno-kids-clothing-toys-store-woocommerce-theme/full_screen_preview/23067558
+- link (kids Store demo 1) : https://parkofideas.com/kidz/demo1/
+- link (kids Store demo 1) : https://parkofideas.com/kidz/demo2/
+- link (kids Store demo 1) : https://parkofideas.com/kidz/demo3/
+- link (colorful) : https://cocco.qodeinteractive.com/shop-boxed/
+
+
+## Personal Portfolio
+- Photographer : https://wdtelethemes.wpengine.com/redart-elementor/ 
+
+
+
+## SuperShop Website
+
+
+## Chocolate Website
+
+
+
+## Adult Website
+- link : https://oydis.myshopify.com/
+
+
+## Medic Store 
+
+
+## Book Store
+
+
+## Chat App
+
+
+
+## Social Media
+
+
+## Fitness
+
+
+## MEDIA GALLERY 
+- link : https://wdtelethemes.wpengine.com/redart-elementor/
+

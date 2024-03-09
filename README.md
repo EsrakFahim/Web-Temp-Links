@@ -8,6 +8,7 @@
 - Furniture Store Link: https://depot.qodeinteractive.com/classic-home/
 - Fashion Brand Site Link: https://klbtheme.com/clotya/
 - Fashion Brand Site2 Link: https://suprema.qodeinteractive.com/suprema-shop/
+- (Amazon Style) : https://cs-sarahmarket-3.myshopify.com/
 
 ## Blog Web Temp:
 - Minimalo: https://theme.rootlayers.com/minimalo/minimalo-2/
@@ -35,7 +36,11 @@
 
 
 ## Food Recipes Website
-
+- Demo Need To Pick : https://preview.themeforest.net/item/food-recipes-wordpress-theme/full_screen_preview/1923882
+- https://recipepress.inspirythemes.com/second/
+- Havy Load Ui : https://preview.themeforest.net/item/ranna-food-recipe-wordpress-theme/full_screen_preview/25157340
+- Product Focus UI : https://easymeals.qodeinteractive.com/organic-recipes/
+- Food Blog : https://preview.themeforest.net/item/tinysalt-personal-food-blog-wordpress-theme/full_screen_preview/26294668 
 
 ## Agro / Eco Farming Website
 - link(Eco Farm): https://ninetheme.com/themes/html-templates/agrikon/?storefront=envato-elements
@@ -73,9 +78,16 @@
 ## Toy Store
 - link (kids store) : https://preview.themeforest.net/item/uneno-kids-clothing-toys-store-woocommerce-theme/full_screen_preview/23067558
 - link (kids Store demo 1) : https://parkofideas.com/kidz/demo1/
-- link (kids Store demo 1) : https://parkofideas.com/kidz/demo2/
-- link (kids Store demo 1) : https://parkofideas.com/kidz/demo3/
+- link (kids Store demo 2) : https://parkofideas.com/kidz/demo2/
+- link (kids Store demo 3) : https://parkofideas.com/kidz/demo3/
 - link (colorful) : https://cocco.qodeinteractive.com/shop-boxed/
+- link (Kids Stoke amazon type) : https://miukid-store-demo.myshopify.com/?_ab=0&_fd=0&_sc=1
+- 
+
+
+## Adult Website
+- link : https://oydis.myshopify.com/
+- link (adult toys) : http://preview.themeforest.net/item/vibratex-adult-toys-shop-wordpress-theme/full_screen_preview/43750810
 
 
 ## Personal Portfolio
@@ -84,15 +96,18 @@
 
 
 ## SuperShop Website
-
+- Spycies Store : https://ps-grocerykart.myshopify.com/
+- Grocery Store : https://parkofideas.com/tastydaily/demo/
+- Grocery store Demos : https://preview.themeforest.net/item/tastydaily-grocery-store-food-woocommerce-theme/full_screen_preview/48790891
+- 
 
 ## Chocolate Website
-
-
-
-## Adult Website
-- link : https://oydis.myshopify.com/
-
+- dark theme : http://preview.themeforest.net/item/crems-sweets-pastry-wordpress-theme/full_screen_preview/27932462
+- White and bule theme : https://preview.themeforest.net/item/chocorocco-chocolate-company-wp-theme/full_screen_preview/20769788
+- Lover Chocolate theme : https://dt-chokee.myshopify.com/
+- Minimal and Simple Good theme : https://sweettooth.qodeinteractive.com/
+- Chocolate Promotion : https://sweettooth.qodeinteractive.com/macaroon/
+- Sweetner Shop : https://beeswax-theme.myshopify.com/ 
 
 ## Medic Store 
 

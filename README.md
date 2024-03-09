@@ -22,6 +22,7 @@
 
 ## Inventory Manegment System:
 - Link: https://materialpro-vue3-dark.vercel.app/dashboards/analytical
+- https://inventory-management-rosy.vercel.app/
 
 
 ## Bakery Website

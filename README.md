@@ -3,7 +3,13 @@
 ## E-commerce Temp:
 - Bundle-Temp : https://webdesign.tutsplus.com/best-ecommerce-website-templates--cms-26768a
 - Electronics Store Link: https://b4fklkfglpiwmvj9-72849948973.shopifypreview.com
-- Cosmetics Store Link: https://ng99ey1qk3inyalr-72849948973.shopifypreview.com
+- Cosmetics Store Link (Bundle) : https://preview.themeforest.net/item/biagiotti-beauty-and-cosmetics-shop/full_screen_preview/24645919
+- Cosmetics (Bundle) : https://preview.themeforest.net/item/luchiana-cosmetics-beauty-shop-woocoomerce-theme/full_screen_preview/29332516
+- Cometise (Cundle 2 ) : https://preview.themeforest.net/item/cerla-cosmetics-woocommerce-wordpress-theme/full_screen_preview/30930810
+- Cosmetis (Bundle 3) : https://preview.themeforest.net/item/shades-bridal-studio-shopify-responsive-theme/full_screen_preview/29846098
+- Cosmetis (Bundle 4) : https://preview.themeforest.net/item/uray-cosmetic-beauty-shopify-theme/full_screen_preview/23954567
+- Cosmetis (Bundle 5 ) : https://preview.themeforest.net/item/omelia-minimalist-style-fashion-lookbook-shopify-theme/full_screen_preview/22074520
+- 
 - Medical Store Link: https://qfmf3f2mvgaj01bk-72849948973.shopifypreview.com
 - Furniture Store Link: https://depot.qodeinteractive.com/classic-home/
 - Fashion Brand Site Link: https://klbtheme.com/clotya/
@@ -128,4 +134,3 @@
 
 ## MEDIA GALLERY 
 - link : https://wdtelethemes.wpengine.com/redart-elementor/
-
